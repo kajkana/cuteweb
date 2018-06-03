@@ -1,0 +1,7 @@
+d8dev.content:
+  path: '/d8dev'
+  defaults:
+    _controller: '\Drupal\d8dev\Controller\d8devController::sayhello'
+    _title: 'Hello Drupal 8 World!'
+  requirements:
+    _permission: 'access content'

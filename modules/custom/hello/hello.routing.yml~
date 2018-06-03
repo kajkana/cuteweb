@@ -8,7 +8,7 @@ hello.content:
 hi.content:
   path: '/hi'
   defaults:
-    _controller: '\Drupal\hello\Controller\HiController::sayhello'
+    _controller: '\Drupal\hello\Controller\HelloController::sayhello'
     _title: 'Hello Drupal 8 World!'
   requirements:
     _permission: 'access content'

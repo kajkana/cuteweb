@@ -5,7 +5,3 @@
  function hello_hello_world() { 
      return t('Hello D8 World!');
  }
-
- function hello_hi_world() { 
-     return t('Hi D8 World!');
- }

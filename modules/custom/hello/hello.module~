@@ -7,5 +7,5 @@
  }
 
  function hello_hi_world() { 
-     return t('Hi D8 World!');
+     return t('Hello D8 World!');
  }

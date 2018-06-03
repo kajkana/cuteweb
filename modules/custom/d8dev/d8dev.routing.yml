@@ -1,0 +1,7 @@
+d8dev.content:
+  path: '/d8dev'
+  defaults:
+    _controller: '\Drupal\d8dev\Controller\d8devController::sayhello'
+    _title: 'This is the title of D8Dev module!'
+  requirements:
+    _permission: 'access content'

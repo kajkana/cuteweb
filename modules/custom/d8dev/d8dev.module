@@ -1,0 +1,7 @@
+<?php
+
+ use Drupal\Core\Routing\RouteMatchInterface;
+
+ function d8dev_hello_world() { 
+     return t('Hello D8 World!');
+ }
